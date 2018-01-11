@@ -8,10 +8,10 @@ _N.B.: Blue maps are inputs, and cyan maps are outputs._
 
 <table style="width:100%; table-layout:fixed; display:table;">
   <tr>
-    <td><img src="gif/no_padding_no_strides.gif"></td>
-    <td><img src="gif/arbitrary_padding_no_strides.gif"></td>
-    <td><img src="gif/same_padding_no_strides.gif"></td>
-    <td><img src="gif/full_padding_no_strides.gif"></td>
+    <td style="width:25%;"><img src="gif/no_padding_no_strides.gif"></td>
+    <td style="width:25%;"><img src="gif/arbitrary_padding_no_strides.gif"></td>
+    <td style="width:25%;"><img src="gif/same_padding_no_strides.gif"></td>
+    <td style="width:25%;"><img src="gif/full_padding_no_strides.gif"></td>
   </tr>
   <tr>
     <td>No padding, no strides</td>
