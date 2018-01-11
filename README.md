@@ -6,7 +6,7 @@ A technical report on convolution arithmetic in the context of deep learning.
 
 _N.B.: Blue maps are inputs, and cyan maps are outputs._
 
-<table style="width:100%; table-layout:fixed;">
+<table style="width:100%; table-layout:fixed; display:table;">
   <tr>
     <td><img src="gif/no_padding_no_strides.gif"></td>
     <td><img src="gif/arbitrary_padding_no_strides.gif"></td>
